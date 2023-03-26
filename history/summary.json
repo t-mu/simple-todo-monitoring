@@ -4,17 +4,19 @@
     "url": "https://t-mu.github.io/simple-todo",
     "icon": "https://icons.duckduckgo.com/ip3/t-mu.github.io.ico",
     "slug": "simple-todo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "time": 161,
+    "timeDay": 161,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   }
 ]
