@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/t-mu.github.io.ico",
     "slug": "simple-todo",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 228,
-    "timeWeek": 187,
-    "timeMonth": 160,
-    "timeYear": 162,
+    "timeDay": 104,
+    "timeWeek": 145,
+    "timeMonth": 159,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   }
 ]
